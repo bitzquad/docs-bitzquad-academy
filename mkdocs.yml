@@ -1,4 +1,4 @@
-site_name: Docs - Bitzquad Academy
+site_name: Bitzquad Academy Documentation
 site_url: https://docs.learn.bitzquad.com
 nav:
   - Home: index.md
