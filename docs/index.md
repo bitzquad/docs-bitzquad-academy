@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to Bitzquad Academy Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For further details. contact mailto:hello@Kesaralive.com
 
-## Commands
+## Setting up the development environment
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Installing the NextJS
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
+    index.html    # HomePage
+    api/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
