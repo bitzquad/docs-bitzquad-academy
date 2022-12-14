@@ -31,11 +31,11 @@ jobs:
         uses: actions/configure-pages@v2
       - name: Deploy MkDocs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.25
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./site
-          destination: ./_site
+      # - name: Build with Jekyll
+      #   uses: actions/jekyll-build-pages@v1
+      #   with:
+      #     source: ./site
+      #     destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
 

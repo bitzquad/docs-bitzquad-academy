@@ -1,6 +1,6 @@
 # Procul defensatque ullos Lycia supplex
 
-## Expers iam
+## Academy Experts
 
 Lorem markdownum, nescio quo flagellari passu iuguloque suspicit paelex! Est
 parat [quos anum in](http://acheloeheu.io/) rogantem Somne toto denique, quid
