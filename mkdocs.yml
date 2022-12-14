@@ -1,0 +1,7 @@
+site_name: Docs - Bitzquad Academy
+site_url: https://docs.learn.bitzquad.com
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: material
