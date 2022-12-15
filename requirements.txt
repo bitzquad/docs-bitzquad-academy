@@ -1,3 +1,2 @@
 mdx-include
 mkdocs-include-markdown-plugin
-mkdocs-encryptcontent-plugin
