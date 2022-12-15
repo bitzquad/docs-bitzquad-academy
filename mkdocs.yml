@@ -15,3 +15,10 @@ theme:
     - navigation.top
     - toc.follow
     - toc.integrate
+
+copyright: >
+  Copyright &copy; Bitzquad PVT(LTD)
+
+repo_url: https://github.com/bitzquad/docs-bitzquad-academy
+repo_name: bitzquad/docs-bitzquad-academy
+edit_uri: edit/main/docs/
