@@ -26,7 +26,14 @@ edit_uri: edit/main/docs/
 markdown_extensions:
   - toc:
       permalink: true
-
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - admonition
+  - abbr
+  - attr_list
+  - codehilite
+  - extra
+  
 extra_css:
   - css/termynal.css
   - css/custom.css
