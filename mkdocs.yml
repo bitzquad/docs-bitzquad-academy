@@ -8,8 +8,8 @@ theme:
   highlightjs: true
   font:
     text: Inter
-  logo: img/logo-white.svg
-  favicon: img/favicon.ico
+  logo: img/logo-white.png
+  favicon: img/favicon.png
   features:
     - navigation.tracking
     - navigation.top
