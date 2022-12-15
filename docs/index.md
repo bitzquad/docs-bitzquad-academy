@@ -12,3 +12,7 @@ For further details. contact mailto:hello@Kesaralive.com
     api/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+???+ success "Learning Objectives"
+    - Finished
+    - Install Python
