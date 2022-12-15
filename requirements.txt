@@ -1,1 +1,11 @@
-mdx_include
+mkdocs-material
+mdx-include
+mkdocs-git-revision-date-localized-plugin
+mkdocs-git-authors-plugin
+mkdocs-encryptcontent-plugin
+neoteroi-mkdocs
+httpx
+mkdocs-include-markdown-plugin
+pyyaml
+arrow
+python-dotenv
