@@ -5,6 +5,18 @@
 - Git
 - Code Editor
 
+## Using Docker (Recommended)
+1. Start Development Server
+```
+git clone https://github.com/bitzquad/docs-bitzquad-academy.git
+cd docs-bitzquad-academy
+docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+```
+2. Build Documentation
+```
+docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
+```
+
 ## Installation
 1. Install Python.
     - Windows: https://www.python.org/downloads/windows/
