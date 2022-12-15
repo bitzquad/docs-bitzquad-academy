@@ -38,13 +38,6 @@ plugins:
   - include-markdown
   - search
  #- autolinks
-  - encryptcontent:
-      search_index: 'encrypted'
-      title_prefix: '[HIDDEN] '
-      summary: 'This page is hidden and requires an access code.'
-      placeholder: 'Provide the access code and press ENTER'
-      decryption_failure_message: 'Invalid access code.'
-      encryption_info_message: 'Please ask your instructor for the access code.'
   - git-revision-date-localized:
        enable_creation_date: true
        type: timeago
