@@ -23,6 +23,10 @@ repo_url: https://github.com/bitzquad/docs-bitzquad-academy
 repo_name: bitzquad/docs-bitzquad-academy
 edit_uri: edit/main/docs/
 
+markdown_extensions:
+  - toc:
+      permalink: true
+
 extra_css:
   - css/termynal.css
   - css/custom.css
