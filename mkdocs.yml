@@ -5,3 +5,13 @@ nav:
   - About: about.md
 theme:
   name: material
+  highlightjs: true
+  font:
+    text: Inter
+  logo: img/logo-white.svg
+  favicon: img/favicon.ico
+  features:
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+    - toc.integrate
