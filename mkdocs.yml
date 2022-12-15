@@ -38,23 +38,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format ''
-  - pymdownx.tabbed:
-      alternate_style: true
-  - mdx_include:
-      base_path: docs
-  - neoteroi.cards
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.snippets:
-      auto_append:
-        - docs/includes/abbreviations.md
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.arithmatex:
-      generic: true
 
 extra_css:
   - css/termynal.css
