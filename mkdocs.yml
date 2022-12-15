@@ -37,7 +37,6 @@ markdown_extensions:
 plugins:
   - include-markdown
   - search
-  - git-authors
 
 extra_css:
   - css/termynal.css
