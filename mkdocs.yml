@@ -38,10 +38,6 @@ plugins:
   - include-markdown
   - search
   - git-authors
-extra:
-  version:
-    provider: mike
-  generator: false
 
 extra_css:
   - css/termynal.css

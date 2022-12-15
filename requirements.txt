@@ -1,4 +1,2 @@
 mdx-include
 mkdocs-include-markdown-plugin
-mkdocs-git-revision-date-localized-plugin
-mkdocs-git-authors-plugin
