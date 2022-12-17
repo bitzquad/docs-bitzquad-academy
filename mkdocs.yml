@@ -4,7 +4,7 @@ nav:
   - Introduction: index.md
   - Chapter 0 - Prerequisites: content/chapter_0.md
   - Chapter 1 - Dev Environment: content/chapter_1.md
-  - Chapter 2 - Branching Workflow: content/chapter_2.md
+  - Chapter 2 - Git Workflow: content/chapter_2.md
   - About: about.md
 
 theme:
