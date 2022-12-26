@@ -6,6 +6,7 @@ nav:
   - Chapter 1 - Dev Environment: content/chapter_1.md
   - Chapter 2 - Git Workflow: content/chapter_2.md
   - MongoDB: content/services/how_to_integrate_mongodb.md
+  - Auth0: content/services/how_to_integrate_auth0.md
   - About: about.md
 
 theme:
