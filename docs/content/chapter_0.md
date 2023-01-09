@@ -83,9 +83,22 @@
 -   ### **About Tailwind**
 
     Tailwind CSS is an open-source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables.
-    <!-- <br /><br />Read more - <a href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank">https://en.wikipedia.org/wiki/Tailwind_CSS</a> -->
+
+-   ### **Why Tailwind**
+    
+    Tailwind CSS makes it quicker to write and maintain the code of the application. By using this utility-first framework, We don’t have to write custom CSS to style our application. Instead, we can use utility classes to control the padding, margin, color, font, shadow, and more of the application.
+
+    - **Advantages of using Tailwind CSS**
+        
+        - Ease to build responsive websites.
+        - We can add custom css utilities.
+        - Remove unused css when it comes to production build.
 
     <br />Documentation - <a href="https://tailwindcss.com/" target="_blank">https://tailwindcss.com/</a>
     <br />UI library - <a href="https://tailwindui.com/" target="_blank">https://tailwindui.com/</a>
+
+    !!! info "Important!"
+        - You must read the core concepts in the Tailwind documentation to get a better idea of how hover, focus, and other important states work.
+
 
 <small>image credits goes to respective owners</small>
