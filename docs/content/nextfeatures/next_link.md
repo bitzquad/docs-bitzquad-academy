@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Next.js Link component [next/image](https://nextjs.org/docs/api-reference/next/link) handles client-side transitions between routes. This component basically acts like HTML `<a>` tag, but there are a few differences.
+The Next.js Link component [next/link](https://nextjs.org/docs/api-reference/next/link) handles client-side transitions between routes. This component basically acts like HTML `<a>` tag, but there are a few differences.
 
 ~Next.js Docs
 
