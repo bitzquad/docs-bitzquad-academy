@@ -1,4 +1,4 @@
-*Updated on* `25/12/2022` *by* `Isuru Harischandra` 
+*Updated on* `15/01/2023` *by* `Isuru Harischandra` 
 
 # Creating a MongoDB database cluster and retrieving URI
 
@@ -154,10 +154,15 @@ Now you are going to set up a MongoDB cluster to connect to your local applicati
   <kbd>![25.png](../../img/services/connect_mongodb_database_cluster/25.png){width="600"}</kbd>
 </figure>
 
-!!! info "Important!"
-    - Since you have already added your IP address in step 4, there’s no need to add the IP address again. 
+!!! danger "Important!"
+    - The IP address we added (112.134.170.82) is valid only for now.
+    - It will change every time when we connect to the network.
+    - By adding **0.0.0.0** to the allowed list, we can get access to the database even if our IP address is changed. 
+
+!!! info "Important!" 
     - You can check whether your IP address has been added to the allowed list as mentioned here. 
     - If so, you are good to Finish and Close the process.
+    - Don't forget to add **0.0.0.0** also to the allowed list.
 
 - Let's view your newly created database cluster. 
 
