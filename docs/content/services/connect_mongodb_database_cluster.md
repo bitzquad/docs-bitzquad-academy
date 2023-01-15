@@ -134,7 +134,7 @@ Now you are going to set up a MongoDB cluster to connect to your local applicati
 </figure>
 
 !!! info "Important!"
-    - You can save your credentials somewhere else, in case of an emergency.
+    - You can save your credentials in a password manager for better protection and in case of an emergency.
 
 - After setting up credentials, you can create a user. You need these credentials to set up a secure connection to the database cluster. 
 
