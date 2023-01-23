@@ -13,8 +13,8 @@ Bitzquad Academy is a platform that we're building for the community to deliver 
 
 -   _Graphics_
 
-    -   Sandun Dayarathne - _Lead_
-    -   Senuri Wickramasinghe
+    -   Senuri Wickramasinghe - _Lead_
+    -   Sandun Dayarathne - _Adviser_
 
 -   _Content_
 
