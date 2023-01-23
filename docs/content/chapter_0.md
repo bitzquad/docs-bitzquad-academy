@@ -1,3 +1,7 @@
+<figure markdown>
+![Roadmap](../img/chap_0/roadmap.png){width="800"}
+</figure>
+
 ## **React & Next Js**
 
 <figure markdown>
