@@ -72,7 +72,7 @@
 
             In a react component, data is typically stored in the component's state object. When the state changes the component or the page will re-render.
 
-            !!! warning "We don't use any third party libraries for state management for this project."
+            !!! warning "We don't use any third party libraries for state management in this project."
 
             <a href="https://aroundreact.com/state-management-in-next-js-2023/" target="_blank">How we can do state management in Next JS.</a> 
 
