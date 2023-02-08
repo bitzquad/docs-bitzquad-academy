@@ -72,6 +72,11 @@
 
             In a react component, data is typically stored in the component's state object. When the state changes the component or the page will re-render.
 
+            !!! warning "We don't use any third party libraries for state management in this project."
+
+            <a href="https://aroundreact.com/state-management-in-next-js-2023/" target="_blank">How we can do state management in Next JS.</a> 
+
+
         -   ### **Functional Components**
 
             You can create react component as a function. This is the simplest way to define a component. This function is a valid React component because it accepts a single “props” (which stands for properties) object argument with data and returns a React element.

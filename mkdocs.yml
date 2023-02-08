@@ -21,6 +21,7 @@ theme:
     - navigation.top
     - toc.follow
     - toc.integrate
+    - content.code.copy
 
 copyright: >
   Copyright &copy; Bitzquad PVT(LTD)
@@ -39,6 +40,11 @@ markdown_extensions:
   - attr_list
   - codehilite
   - extra
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 plugins:
   # - include-markdown
