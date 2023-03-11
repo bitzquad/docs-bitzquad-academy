@@ -110,4 +110,27 @@
         - You must read the core concepts in the Tailwind documentation to get a better idea of how hover, focus, and other important states work.
 
 
+## **SASS**
+
+<figure markdown>
+![SASS](../img/chap_0/sass.jpg){width="800"}
+</figure>
+
+-   ### **About SASS**
+
+    SASS is a CSS preprocessor that gives your CSS superpowers. Sass provides a compiler that allows us to write stylesheets in two different syntaxes, indented and SCSS.
+
+-   ### **Why SASS**
+    
+    - It helps reduce the repetition of CSS.
+    - We can write TailwindCSS with sass.
+    - helps keep your code organized by using partials
+
+    <br />Documentation - <a href="https://sass-lang.com/documentation/" target="_blank">https://sass-lang.com/documentation/</a>
+    <br />Sass Guide - <a href="https://sass-lang.com/guide" target="_blank">https://sass-lang.com/guide</a>
+
+    !!! info "Important!"
+        - You must go through with the sass guide we mention earlier to get a basic idea about sass.
+
+
 <small>image credits goes to respective owners</small>
