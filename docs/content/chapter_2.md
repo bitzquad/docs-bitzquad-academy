@@ -44,3 +44,13 @@ The idea behind `test` branch is to test code changes efficiently without distur
   ![dev_branch.jpg](../img/chap_2/feature_branch.jpg){width="800"}
   <figcaption>Example: Feature branches</figcaption>
 </figure>
+
+The core idea behind the Feature Branch Workflow is that all feature development should take place in a dedicated branch instead of the main branch. This encapsulation makes it easy for multiple developers to work on a particular feature without disturbing the main codebase. A developer can work on a new feature branch until the particular feature is complete. 
+
+##### Start with the main branch.
+All feature branches are created off the latest code state of a project. This guide assumes this is maintained and updated in the main branch.
+!!! warning "Beware"
+    This can be changed on some occasions like when one feature depends on another part that has not yet been developed or is in under development stage.
+    In that kind of scenario, You'll have to start with the `dev` branch.
+
+#### Feature branch naming conventions.
