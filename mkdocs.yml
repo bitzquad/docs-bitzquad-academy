@@ -5,6 +5,7 @@ nav:
   - Chapter 0 - Prerequisites: content/chapter_0.md
   - Chapter 1 - Dev Environment: content/chapter_1.md
   - Chapter 2 - Git Workflow: content/chapter_2.md
+  - Chapter 3 - Project Environment: content/chapter_3.md
   - MongoDB: content/services/connect_mongodb_database_cluster.md
   - Identity platform: content/services/identity_platform.md
   - About: about.md
