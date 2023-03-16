@@ -208,4 +208,50 @@ We recommend you to use MongoDB Compass to access your database cluster during t
     <figure markdown>
       <kbd>![compass-download.png](../../img/services/connect_mongodb_database_cluster/compass-download.png){width="600"}</kbd>
     </figure>
-    <sub>select the appropriate latest stable version for your operating system and download it.</sub>
+    <sub>Select the appropriate latest stable version for your operating system and download it.</sub>
+
+    -   After downloading, run the downloaded file and install MongoDB Compass. (You can follow the installation steps [here](https://docs.mongodb.com/compass/master/install/).)
+    <figure markdown>
+      <kbd>![compass-installing.png](../../img/services/connect_mongodb_database_cluster/compass-installing.png){width="600"}</kbd>
+    </figure>
+    <sub>After running the downloaded file, you will see the installation wizard. Wait until the installation is completed.</sub>
+
+    -   After the installation is completed, it will automatically open the MongoDB Compass. If not, you can open it from the start menu. You can see the following screen.
+    <figure markdown>
+      <kbd>![compass-first-view.png](../../img/services/connect_mongodb_database_cluster/compass-first-view.png)</kbd>
+    </figure>
+        Close the welcome screen and click on **New connection**.
+
+    -   Then you need to provide the connection details. You can find the connection details in the **Connect** tab of your database cluster. You can see the following screen. Copy the connection URI and paste it in the **Connection String Only** field in MongoDB Compass. Then click on **Save and Connect**.
+    <figure markdown>
+    <kbd>![compass-create-connection.png](../../img/services/connect_mongodb_database_cluster/compass-create-connection.png)</kbd>
+    </figure>
+
+    -   Then it will ask a name for the connection. You can give any name you want. Then click on **Save & Connect**.
+    <figure markdown>
+    <kbd>![compass-dave-connection.png](../../img/services/connect_mongodb_database_cluster/compass-save-connection.png)</kbd>
+    </figure>
+
+    -   When the connection is established, you can see the following screen. You can see the databases in your database cluster in the left side of the screen. You can see the collections in the selected database in the middle of the screen. You can see the data in the selected collection in the right side of the screen.
+    <figure markdown>
+    <kbd>![compass-connection-landing.png](../../img/services/connect_mongodb_database_cluster/compass-connection-landing.png)</kbd>
+    </figure>
+
+    -   There is a tab called **Databases** in the top middle of the screen. You can click on it to view the databases in your database cluster. In here you can see some information about the databases. You can also create a new database by clicking on the **Create Database** button.
+    <figure markdown>
+    <kbd>![compass-databases.png](../../img/services/connect_mongodb_database_cluster/compass-databases.png)</kbd>
+    </figure>
+
+    -   When you open a database, you can see the collections in the database in the middle of the screen. You can also create a new collection by clicking on the **Create Collection** button.
+    <figure markdown>
+     <kbd>![compass-collections.png](../../img/services/connect_mongodb_database_cluster/compass-collections.png)</kbd>
+    </figure>
+
+    -   When you open a collection, you can see the data in the collection in the right side of the screen. You can also create a new document by clicking on the **Add data** button.
+    <figure markdown>
+    <kbd>![compass-view-documents.png](../../img/services/connect_mongodb_database_cluster/compass-view-documents.png)</kbd>
+    </figure>
+
+# Read More
+
+Read more details about [MongoDB Compass](https://docs.mongodb.com/compass/master/).
